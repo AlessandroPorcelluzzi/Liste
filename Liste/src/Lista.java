@@ -1,6 +1,6 @@
 public class Lista {
-    private Nodo root; // testa
-    private Nodo tail; // coda
+    private Nodo root; 
+    private Nodo tail; 
 
     public Lista() {
         root = null;
